@@ -13,4 +13,4 @@ My personal awesome stars
 - [Clean code](https://www.goodreads.com/book/show/3735293-clean-code) - Classic book to learn how to produce readable, comprehensible and maintainable code.
 
 ## Cours
-- [Angular - The Complete Guide](https://www.udemy.com/course/the-complete-guide-to-angular-2) - Project based tutorial to understand and use Angular
+- [Angular - The Complete Guide](https://www.udemy.com/course/the-complete-guide-to-angular-2) - Project based tutorial to understand and manage an Angular project
