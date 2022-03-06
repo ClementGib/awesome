@@ -16,5 +16,5 @@ My personal awesome stars
 - [Head First Design Pattern 2nd edition](https://www.goodreads.com/book/show/58128.Head_First_Design_Patterns) - Book from the Gang of four to understand the essentials patterns to design great software 
 
 
-## Cours
+## Coures
 - [Angular - The Complete Guide](https://www.udemy.com/course/the-complete-guide-to-angular-2) - Project based tutorial to understand and manage an Angular project
