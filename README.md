@@ -9,7 +9,7 @@ My personal awesome stars
 
 ## Tools
 - [oh my zsh](https://github.com/ohmyzsh/ohmyzsh#readme) - open-source framework for ZSH, help to manage and configure ZSH shell.
-- [Terminator](https://en.wikipedia.org/wiki/Terminator_(terminal_emulator)) - Nice terminal with multi tabs 
+- [Terminator](https://en.wikipedia.org/wiki/Terminator_(terminal_emulator)) - Nice terminal with multi tabs for Linux
 - [WSL](https://docs.microsoft.com/en-us/windows/wsl/) - Windows Subsystem Linux : Embedded Linux system that allow you to use (almost) all the linux programs on Windows on the distribution of you choice
 
 ## Books
