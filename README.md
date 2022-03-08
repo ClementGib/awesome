@@ -19,7 +19,7 @@ My personal awesome stars
 - [The design of everyday things](https://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things) - Game changing book! Amazing design concepts, put them into practice and you will create better products
 
 ## Courses
-- [The JavaScript Bible - JavaScript Bootcamp](https://www.udemy.com/course/javascript-bible/) - Very complete cours to understand JS and ECMAScript
+- [The JavaScript Bible - JavaScript Bootcamp](https://www.udemy.com/course/javascript-bible/) - Very complete course to understand JS and ECMAScript
 - [Angular - The Complete Guide](https://www.udemy.com/course/the-complete-guide-to-angular-2) - Project based tutorial to understand and manage an Angular project
 
 ## Repositories
