@@ -14,7 +14,7 @@ My personal awesome stars
 - [vim](https://fr.wikipedia.org/wiki/Vim) - Classic text editor with awesome progression level and great plugins
 - [VSCode](https://code.visualstudio.com/) - Very popular text editor with brilliant plugins
 
-## Books 📖
+## Books 📚
 - [Clean code](https://www.goodreads.com/book/show/3735293-clean-code) - Classic book to learn how to produce readable, comprehensible and maintainable code. 
 - [Clean coder](https://www.goodreads.com/book/show/10284614-the-clean-coder?from_search=true&from_srp=true&qid=f5euGcEWIy&rank=2) - Even if you know how to produce good code, being a qualified coder is a difficult task. This book can teach you how to make better choice and to act as professional coder. 
 - [Head First Design Pattern 2nd edition](https://www.goodreads.com/book/show/58128.Head_First_Design_Patterns) - Book from the Gang of four to understand the essentials patterns to design great software
