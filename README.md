@@ -9,6 +9,7 @@ My personal awesome stars
 
 ## Tools 🧰
 - [oh my zsh](https://github.com/ohmyzsh/ohmyzsh#readme) - open-source framework for ZSH, help to manage and configure ZSH shell.
+- [react-native](https://github.com/facebook/react-native) - Really good framework to develop cross-platform apps with JavaScript libs  
 - [Terminator](https://en.wikipedia.org/wiki/Terminator_(terminal_emulator)) - Nice terminal with multi tabs for Linux
 - [WSL](https://docs.microsoft.com/en-us/windows/wsl/) - Windows Subsystem Linux : Embedded Linux system that allow you to use (almost) all the linux programs on Windows on the distribution of you choice
 - [vim](https://fr.wikipedia.org/wiki/Vim) - Classic text editor with awesome progression level and great plugins
@@ -23,8 +24,9 @@ My personal awesome stars
 
 
 ## Courses 📼
-- [The JavaScript Bible - JavaScript Bootcamp](https://www.udemy.com/course/javascript-bible/) - Very complete course to understand JS and ECMAScript
+- [The JavaScript Bible - JavaScript Bootcamp](https://www.udemy.com/course/javascript-bible/) - Very complete course to understand JavaScript and ECMAScript
 - [Angular - The Complete Guide](https://www.udemy.com/course/the-complete-guide-to-angular-2) - Project based tutorial to understand and manage an Angular project
 
 ## Repositories 📦 
 - [Chocolatey](https://github.com/chocolatey/choco) - CLI-based package manager for Windows
+- [Angular2AndJavaEE](https://github.com/Angular2Guy/Angular2AndJavaEE) - Cool repository to make an example of a JEE project with Angular2+
