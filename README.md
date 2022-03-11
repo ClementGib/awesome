@@ -29,4 +29,4 @@ My personal awesome stars
 
 ## Repositories 📦 
 - [Chocolatey](https://github.com/chocolatey/choco) - CLI-based package manager for Windows
-- [Angular2AndJavaEE](https://github.com/Angular2Guy/Angular2AndJavaEE) - Cool repository to make an example of a JEE project with Angular2+
+- [Angular2AndJavaEE](https://github.com/Angular2Guy/Angular2AndJavaEE) - Cool repository to make JEE Rest API project with Angular2+
