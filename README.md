@@ -42,4 +42,4 @@ My personal awesome stars
 
 
 ## Games
-- [flexbox game](https://github.com/pellaton/eclipse-cheatsheet) - Complete cheat sheet for Eclipse IDE
+- [Flexbox Froggy](https://flexboxfroggy.com/) - little game to understand and practice CSS3 flexbox
