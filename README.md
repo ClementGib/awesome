@@ -41,5 +41,9 @@ My personal awesome stars
 - [Python sheetcheat](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjE16iR1cH2AhUMyxoKHRkKDpMQFnoECA4QAQ&url=https%3A%2F%2Fperso.limsi.fr%2Fpointal%2F_media%2Fpython%3Acours%3Amementopython3-english.pdf&usg=AOvVaw1ogJFUltssPPSBgs3nrU16) - Well defined cheat sheet for Python3
 
 
-## Games
+## Games 🎲
 - [Flexbox Froggy](https://flexboxfroggy.com/) - little game to understand and practice CSS3 flexbox
+- [Flexbox defense](http://www.flexboxdefense.com/) - Tower defense game to pratice CSS3 felxbox
+- [Css battle](https://cssbattle.dev/) - Draw easy or complex forms to practice CSS
+- [Vim adventures](https://vim-adventures.com/) - Adventure game to practice Vim commands
+- [Super markup world](https://supermarkupworld.com/) - Platform game to practice HTML
