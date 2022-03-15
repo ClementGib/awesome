@@ -8,12 +8,16 @@ My personal awesome stars
 - [Repositories](#Repositories)
 
 ## Tools 🧰
-- [oh my zsh](https://github.com/ohmyzsh/ohmyzsh#readme) - open-source framework for ZSH, help to manage and configure ZSH shell.
-- [react-native](https://github.com/facebook/react-native) - Really good framework to develop cross-platform apps with JavaScript libs  
+- [Oh my zsh](https://github.com/ohmyzsh/ohmyzsh#readme) - open-source framework for ZSH, help to manage and configure ZSH shell.
+- [React-native](https://github.com/facebook/react-native) - Really good framework to develop cross-platform apps with JavaScript libs  
 - [Terminator](https://en.wikipedia.org/wiki/Terminator_(terminal_emulator)) - Nice terminal with multi tabs for Linux
 - [WSL](https://docs.microsoft.com/en-us/windows/wsl/) - Windows Subsystem Linux : Embedded Linux system that allow you to use (almost) all the linux programs on Windows on the distribution of you choice
-- [vim](https://fr.wikipedia.org/wiki/Vim) - Classic text editor with awesome progression level and great plugins
+- [Vim](https://fr.wikipedia.org/wiki/Vim) - Classic text editor with awesome progression level and great plugins
 - [VSCode](https://code.visualstudio.com/) - Very popular text editor with brilliant plugins
+- [pgAdmin 3+](https://www.pgadmin.org/) - Open source DB manager for PostegreSQL
+- [paint.NET](https://www.getpaint.net/) - Amazing Free photoshop like made with .NET 
+- [Grub Customizer](https://doc.ubuntu-fr.org/grub-customizer) - Nice program to custom your Grub boot loader
+
 
 ## Books 📚
 - [Clean code](https://www.goodreads.com/book/show/3735293-clean-code) - Classic book to learn how to produce readable, comprehensible and maintainable code. 
@@ -32,6 +36,7 @@ My personal awesome stars
 - [AngularCLI](https://github.com/angular/angular-cli?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more) - CLI for Angular project that helps you to avoid click to create, build, test...
 - [Angular2AndJavaEE](https://github.com/Angular2Guy/Angular2AndJavaEE) - Cool repository to make JEE Rest API project with Angular2+
 - [Paper Dashboard Angular](https://github.com/creativetimofficial/paper-dashboard-angular) - Good template with modern design to learn
+- [Paint.NET](https://github.com/paintdotnet) -  Repository of the Amazing Paint.NET Free App  
 
 ## Cheat Sheet 📝
 - [Eclipse sheetcheat](https://github.com/pellaton/eclipse-cheatsheet) - Complete cheat sheet for Eclipse IDE
