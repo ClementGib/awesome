@@ -25,11 +25,14 @@ My personal awesome stars
 - [Head First Design Pattern 2nd edition](https://www.goodreads.com/book/show/58128.Head_First_Design_Patterns) - Book from the Gang of four to understand the essentials patterns to design great software
 - [The design of everyday things](https://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things) - Game changing book! Amazing design concepts, put them into practice and you will create better products
 - [Java Precisely](https://www.goodreads.com/book/show/666021.Java_Precisely) - Smart Java Programming book that describes the language in detail
+- [Effective Java Third Edition](https://www.goodreads.com/book/show/34927404-effective-java) - Very useful book with great advices
 
 
 ## Courses 📼
 - [The JavaScript Bible - JavaScript Bootcamp](https://www.udemy.com/course/javascript-bible/) - Very complete course to understand JavaScript and ECMAScript
 - [Angular - The Complete Guide](https://www.udemy.com/course/the-complete-guide-to-angular-2) - Project based tutorial to understand and manage an Angular project
+- [The Git & Github Bootcamp](https://www.udemy.com/course/git-and-github-bootcamp/) - Amazing course to learn Git
+
 
 ## Repositories 📦 
 - [Chocolatey](https://github.com/chocolatey/choco) - CLI-based package manager for Windows
