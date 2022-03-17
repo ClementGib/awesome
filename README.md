@@ -55,3 +55,8 @@ My personal awesome stars
 - [Css battle](https://cssbattle.dev/) - Draw easy or complex forms to practice CSS
 - [Vim adventures](https://vim-adventures.com/) - Adventure game to practice Vim commands
 - [Super markup world](https://supermarkupworld.com/) - Platform game to practice HTML
+
+
+## YouTube channel 🟥
+- [Devoxx FR](https://www.youtube.com/channel/UCsVPQfo5RZErDL41LoWvk0A) - Java Devoxx conference channel
+- [Fireship](https://www.youtube.com/c/Fireship) - Awesome channel with short video format for technology intelligence
