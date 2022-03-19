@@ -55,7 +55,7 @@ My personal awesome stars
 - [Css battle](https://cssbattle.dev/) - Draw easy or complex forms to practice CSS
 - [Vim adventures](https://vim-adventures.com/) - Adventure game to practice Vim commands
 - [Super markup world](https://supermarkupworld.com/) - Platform game to practice HTML
-
+- [10 idees recues UX Design](https://10ideesrecuesenuxdesign.castoretpollux.com/fr/) - 10 common preconceptions quiz about UX Design 
 
 ## YouTube channel 🟥
 - [Devoxx FR](https://www.youtube.com/channel/UCsVPQfo5RZErDL41LoWvk0A) - Java Devoxx conference channel
