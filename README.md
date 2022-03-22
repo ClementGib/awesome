@@ -39,7 +39,8 @@ My personal awesome stars
 - [AngularCLI](https://github.com/angular/angular-cli?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more) - CLI for Angular project that helps you to avoid click to create, build, test...
 - [Angular2AndJavaEE](https://github.com/Angular2Guy/Angular2AndJavaEE) - Cool repository to make JEE Rest API project with Angular2+
 - [Paper Dashboard Angular](https://github.com/creativetimofficial/paper-dashboard-angular) - Good template with modern design to learn
-- [Paint.NET](https://github.com/paintdotnet) -  Repository of the Amazing Paint.NET Free App  
+- [Paint.NET](https://github.com/paintdotnet) -  Repository of the Amazing Paint.NET Free App
+- [Java oauth server]() - Java Oauth 2 API server based on JAX-RS 2.0
 
 ## Cheat Sheet 📝
 - [Eclipse sheetcheat](https://github.com/pellaton/eclipse-cheatsheet) - Complete cheat sheet for Eclipse IDE
@@ -60,3 +61,4 @@ My personal awesome stars
 ## YouTube channel 🟥
 - [Devoxx FR](https://www.youtube.com/channel/UCsVPQfo5RZErDL41LoWvk0A) - Java Devoxx conference channel
 - [Fireship](https://www.youtube.com/c/Fireship) - Awesome channel with short video format for technology intelligence
+- [Alpha Code](https://www.youtube.com/c/Fireship) - Channel about DDD architecture
