@@ -40,7 +40,7 @@ My personal awesome stars
 - [Angular2AndJavaEE](https://github.com/Angular2Guy/Angular2AndJavaEE) - Cool repository to make JEE Rest API project with Angular2+
 - [Paper Dashboard Angular](https://github.com/creativetimofficial/paper-dashboard-angular) - Good template with modern design to learn
 - [Paint.NET](https://github.com/paintdotnet) -  Repository of the Amazing Paint.NET Free App
-- [Java oauth server]() - Java Oauth 2 API server based on JAX-RS 2.0
+- [Java oauth server](https://github.com/authlete/java-oauth-server) - Java Oauth 2 API server based on JAX-RS 2.0
 
 ## Cheat Sheet 📝
 - [Eclipse sheetcheat](https://github.com/pellaton/eclipse-cheatsheet) - Complete cheat sheet for Eclipse IDE
