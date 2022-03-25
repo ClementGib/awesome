@@ -64,3 +64,4 @@ My personal awesome stars
 - [edureka!](https://www.youtube.com/c/edurekaIN) - IT channel to learn about different topics
 - [IT connect](https://www.youtube.com/c/It-connectFr) - IT general channel 
 - [Alpha Code](https://www.youtube.com/c/AlphaCode8) - Channel about DDD architecture
+- [Computerphile](https://www.youtube.com/user/Computerphile) - Computer stuff channel 
