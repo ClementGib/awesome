@@ -26,6 +26,7 @@ My personal awesome stars
 - [The design of everyday things](https://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things) - Game changing book! Amazing design concepts, put them into practice and you will create better products
 - [Java Precisely](https://www.goodreads.com/book/show/666021.Java_Precisely) - Smart Java Programming book that describes the language in detail
 - [Effective Java Third Edition](https://www.goodreads.com/book/show/34927404-effective-java) - Very useful book with great advices
+- [Monolith to Microservices](https://www.oreilly.com/library/view/monolith-to-microservices/9781492047834/) - How to organize and transform monolith project to microservices.
 
 
 ## Courses 📼
