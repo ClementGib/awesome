@@ -8,7 +8,7 @@ My personal awesome stars
 - [Repositories](#Repositories)
 
 ## Tools 🧰
-- [Oh my zsh](https://github.com/ohmyzsh/ohmyzsh#readme) - open-source framework for ZSH, help to manage and configure ZSH shell.
+- [Oh my zsh](https://github.com/ohmyzsh/ohmyzsh#readme) - open-source framework for ZSH, help to manage and configure ZSH shell
 - [React-native](https://github.com/facebook/react-native) - Really good framework to develop cross-platform apps with JavaScript libs  
 - [Terminator](https://en.wikipedia.org/wiki/Terminator_(terminal_emulator)) - Nice terminal with multi tabs for Linux
 - [WSL](https://docs.microsoft.com/en-us/windows/wsl/) - Windows Subsystem Linux : Embedded Linux system that allow you to use (almost) all the linux programs on Windows on the distribution of you choice
@@ -17,6 +17,8 @@ My personal awesome stars
 - [pgAdmin 3+](https://www.pgadmin.org/) - Open source DB manager for PostegreSQL
 - [paint.NET](https://www.getpaint.net/) - Amazing Free photoshop like made with .NET 
 - [Grub Customizer](https://doc.ubuntu-fr.org/grub-customizer) - Nice program to custom your Grub boot loader
+- [Figma](https://www.figma.com/login) - Amazing app to prototyping UI
+- [Dbeaver](https://dbeaver.io/) - Database tool to manage SQL databases
 
 
 ## Books 📚
@@ -27,6 +29,7 @@ My personal awesome stars
 - [Java Precisely](https://www.goodreads.com/book/show/666021.Java_Precisely) - Smart Java Programming book that describes the language in detail
 - [Effective Java Third Edition](https://www.goodreads.com/book/show/34927404-effective-java) - Very useful book with great advices
 - [Monolith to Microservices](https://www.oreilly.com/library/view/monolith-to-microservices/9781492047834/) - How to organize and transform monolith project to microservices.
+- [SCRUM](https://www.goodreads.com/book/show/51444247-scrum---5e-d) - French book around Scrum methodology
 
 
 ## Courses 📼
@@ -54,7 +57,8 @@ My personal awesome stars
 
 ## Games 🎲
 - [Flexbox Froggy](https://flexboxfroggy.com/) - little game to understand and practice CSS3 flexbox
-- [Flexbox defense](http://www.flexboxdefense.com/) - Tower defense game to pratice CSS3 felxbox
+- [Flexbox defense](http://www.flexboxdefense.com/) - Tower defense game to practice CSS3 flexbox
+- [Grid garden](https://cssgridgarden.com/) - Gardening game to practice CSS3 Grid
 - [Css battle](https://cssbattle.dev/) - Draw easy or complex forms to practice CSS
 - [Vim adventures](https://vim-adventures.com/) - Adventure game to practice Vim commands
 - [Super markup world](https://supermarkupworld.com/) - Platform game to practice HTML
