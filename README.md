@@ -19,6 +19,11 @@ My personal awesome stars
 - [Grub Customizer](https://doc.ubuntu-fr.org/grub-customizer) - Nice program to custom your Grub boot loader
 - [Figma](https://www.figma.com/login) - Amazing app to prototyping UI
 - [Dbeaver](https://dbeaver.io/) - Database tool to manage SQL databases
+- [Jbang](https://www.jbang.dev/) - Amazing Java CLI
+
+## Framework 🚀
+- [Quarkus](https://quarkus.io) - Modern Java framework, fast, strong and well documented. Use it this framework is Amazing !
+- [Angular](https://angular.io/) - Do I really need to present it?
 
 
 ## Books 📚
@@ -65,9 +70,9 @@ My personal awesome stars
 - [10 idees recues UX Design](https://10ideesrecuesenuxdesign.castoretpollux.com/fr/) - 10 common preconceptions quiz about UX Design 
 
 ## YouTube channel 🟥
-- [Devoxx FR](https://www.youtube.com/channel/UCsVPQfo5RZErDL41LoWvk0A) - Java Devoxx conference channel
 - [Fireship](https://www.youtube.com/c/Fireship) - Awesome channel with short video format for technology intelligence
+- [Devoxx FR](https://www.youtube.com/channel/UCsVPQfo5RZErDL41LoWvk0A) - Java Devoxx conference channel
 - [edureka!](https://www.youtube.com/c/edurekaIN) - IT channel to learn about different topics
 - [IT connect](https://www.youtube.com/c/It-connectFr) - IT general channel 
 - [Alpha Code](https://www.youtube.com/c/AlphaCode8) - Channel about DDD architecture
-- [Computerphile](https://www.youtube.com/user/Computerphile) - Computer stuff channel 
+- [Computerphile](https://www.youtube.com/user/Computerphile) - Computer stuff channel
