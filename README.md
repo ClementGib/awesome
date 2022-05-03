@@ -76,3 +76,5 @@ My personal awesome stars
 - [IT connect](https://www.youtube.com/c/It-connectFr) - IT general channel 
 - [Alpha Code](https://www.youtube.com/c/AlphaCode8) - Channel about DDD architecture
 - [Computerphile](https://www.youtube.com/user/Computerphile) - Computer stuff channel
+- [Joma Tech](https://www.youtube.com/c/JomaOppa) - Entertaining chanel around IT
+- [Bogdan Stashchuk](https://www.youtube.com/c/CodingTutorials) - Serious udemy teacher who post classes on YTB 
