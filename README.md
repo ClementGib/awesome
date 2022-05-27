@@ -42,6 +42,8 @@ My personal awesome stars
 - [The JavaScript Bible - JavaScript Bootcamp](https://www.udemy.com/course/javascript-bible/) - Very complete course to understand JavaScript and ECMAScript
 - [Angular - The Complete Guide](https://www.udemy.com/course/the-complete-guide-to-angular-2) - Project based tutorial to understand and manage an Angular project
 - [The Git & Github Bootcamp](https://www.udemy.com/course/git-and-github-bootcamp/) - Amazing course to learn Git
+- [Oracle Certification: Mastering Java for Beginners & Experts](https://www.udemy.com/course/java-series/) - Good cours about Java language
+- [Java Enterprise Edition 8 for Beginners course](https://www.udemy.com/course/java-enterprise-edition-8/) - Interesting cours on the main concepts of JEE
 
 
 ## Repositories 📦 
