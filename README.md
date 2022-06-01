@@ -35,6 +35,7 @@ My personal awesome stars
 - [Java Precisely](https://www.goodreads.com/book/show/666021.Java_Precisely) - Smart Java Programming book that describes the language in detail
 - [Effective Java Third Edition](https://www.goodreads.com/book/show/34927404-effective-java) - Very useful book with great advices
 - [Monolith to Microservices](https://www.oreilly.com/library/view/monolith-to-microservices/9781492047834/) - How to organize and transform monolith project to microservices.
+- [Java EE 8 Application Development](https://www.amazon.fr/Java-Application-Development-Enterprise-applications/dp/1788293673/ref=sr_1_2?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=21OEXX3I4ASHP&keywords=Java+ee+8+application+dev&qid=1654111493&sprefix=java+ee+8+application+dev%2Caps%2C72&sr=8-2) - Technical book to learn the main concepts of JEE
 - [SCRUM](https://www.goodreads.com/book/show/51444247-scrum---5e-d) - French book around Scrum methodology
 
 
