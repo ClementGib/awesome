@@ -83,3 +83,4 @@ My personal awesome stars
 - [Joma Tech](https://www.youtube.com/c/JomaOppa) - Entertaining chanel around IT
 - [Bogdan Stashchuk](https://www.youtube.com/c/CodingTutorials) - Serious udemy teacher who post classes on YTB
 - [Dave Gray](https://www.youtube.com/c/DaveGrayTeachesCode/videos) - Qualitative Youtuber around web development 
+- [Benjamin Code](https://www.youtube.com/c/BenjaminCode) - French freelance developper 
