@@ -2,7 +2,7 @@
 My personal awesome stars
 
 ## Contents
-- [Tools](#Tools)
+- [Tools 🧰](#tools)
 - [Books](#Books)
 - [Cours](#Cours)
 - [Repositories](#Repositories)
