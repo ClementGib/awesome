@@ -8,6 +8,8 @@ My personal awesome stars
 - [Repositories](#Repositories)
 
 ## Tools 🧰
+- [Hibernate](https://hibernate.org/) - Object–relational mapping tool 
+- [Jboss Wildfly](https://www.jboss.org/) - JEE application server
 - [Oh my zsh](https://github.com/ohmyzsh/ohmyzsh#readme) - open-source framework for ZSH, help to manage and configure ZSH shell
 - [React-native](https://github.com/facebook/react-native) - Really good framework to develop cross-platform apps with JavaScript libs  
 - [Terminator](https://en.wikipedia.org/wiki/Terminator_(terminal_emulator)) - Nice terminal with multi tabs for Linux
@@ -16,10 +18,11 @@ My personal awesome stars
 - [VSCode](https://code.visualstudio.com/) - Very popular text editor with brilliant plugins
 - [pgAdmin 3+](https://www.pgadmin.org/) - Open source DB manager for PostegreSQL
 - [paint.NET](https://www.getpaint.net/) - Amazing Free photoshop like made with .NET 
-- [Grub Customizer](https://doc.ubuntu-fr.org/grub-customizer) - Nice program to custom your Grub boot loader
 - [Figma](https://www.figma.com/login) - Amazing app to prototyping UI
 - [Dbeaver](https://dbeaver.io/) - Database tool to manage SQL databases
-- [Jbang](https://www.jbang.dev/) - Amazing Java CLI
+- [Jbang](https://www.jbang.dev/) - Amazing Java CLI*
+- [Postman](https://www.postman.com/) - Program to use, build, and test APIs
+- [Grub Customizer](https://doc.ubuntu-fr.org/grub-customizer) - Nice program to custom your Grub boot loader
 
 ## Framework 🚀
 - [Quarkus](https://quarkus.io) - Modern Java framework, fast, strong and well documented. Use it this framework is Amazing !
@@ -64,7 +67,7 @@ My personal awesome stars
 - [Python sheetcheat](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjE16iR1cH2AhUMyxoKHRkKDpMQFnoECA4QAQ&url=https%3A%2F%2Fperso.limsi.fr%2Fpointal%2F_media%2Fpython%3Acours%3Amementopython3-english.pdf&usg=AOvVaw1ogJFUltssPPSBgs3nrU16) - Well defined cheat sheet for Python3
 
 
-## Games 🎲
+## Coding games 🎲
 - [Flexbox Froggy](https://flexboxfroggy.com/) - little game to understand and practice CSS3 flexbox
 - [Flexbox defense](http://www.flexboxdefense.com/) - Tower defense game to practice CSS3 flexbox
 - [Grid garden](https://cssgridgarden.com/) - Gardening game to practice CSS3 Grid
