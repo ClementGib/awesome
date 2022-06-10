@@ -2,12 +2,12 @@
 My personal awesome stars
 
 ## Contents
-- [Tools 🧰](#tools)
+- [Tools](#tools)
 - [Books](#Books)
 - [Cours](#Cours)
 - [Repositories](#Repositories)
 
-## Tools 🧰
+## Tools
 - [Hibernate](https://hibernate.org/) - Object–relational mapping tool 
 - [Jboss Wildfly](https://www.jboss.org/) - JEE application server
 - [Oh my zsh](https://github.com/ohmyzsh/ohmyzsh#readme) - open-source framework for ZSH, help to manage and configure ZSH shell
