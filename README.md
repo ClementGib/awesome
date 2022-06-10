@@ -2,7 +2,7 @@
 My personal awesome stars
 
 ## Contents
-- [Tools](#ttt)
+- [Tools](#framework)
 - [Books](#Books)
 - [Cours](#Cours)
 - [Repositories](#Repositories)
@@ -25,7 +25,7 @@ My personal awesome stars
 - [Postman](https://www.postman.com/) - Program to use, build, and test APIs
 - [Grub Customizer](https://doc.ubuntu-fr.org/grub-customizer) - Nice program to custom your Grub boot loader
 
-## Framework 🚀
+## Framework
 - [Quarkus](https://quarkus.io) - Modern Java framework, fast, strong and well documented. Use it this framework is Amazing !
 - [Angular](https://angular.io/) - Do I really need to present it?
 
