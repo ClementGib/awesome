@@ -92,3 +92,4 @@ My personal awesome stars
 - [Bogdan Stashchuk](https://www.youtube.com/c/CodingTutorials) - Serious udemy teacher who post classes on YTB
 - [Dave Gray](https://www.youtube.com/c/DaveGrayTeachesCode/videos) - Qualitative Youtuber around web development 
 - [Benjamin Code](https://www.youtube.com/c/BenjaminCode) - French freelance developper 
+- [devaslife](https://www.youtube.com/channel/UC7yZ6keOGsvERMp2HaEbbXQ)  - Relaxing live coding channel 
