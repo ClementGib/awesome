@@ -35,16 +35,16 @@ My personal awesome stars
 
 
 ## Books 📚
-- [Clean code](https://www.goodreads.com/book/show/3735293-clean-code) - Classic book to learn how to produce readable, comprehensible and maintainable code. 
-- [Clean coder](https://www.goodreads.com/book/show/10284614-the-clean-coder?from_search=true&from_srp=true&qid=f5euGcEWIy&rank=2) - Even if you know how to produce good code, being a qualified coder is a difficult task. This book can teach you how to make better choice and to act as professional coder.
+- [Clean code](https://www.goodreads.com/book/show/3735293-clean-code) - Classic book to learn how to produce readable, comprehensible and maintainable code. ✅ 
+- [Clean coder](https://www.goodreads.com/book/show/10284614-the-clean-coder?from_search=true&from_srp=true&qid=f5euGcEWIy&rank=2) - Even if you know how to produce good code, being a qualified coder is a difficult task. This book can teach you how to make better choice and to act as professional coder. ✅
 - [Clean architecture](https://www.goodreads.com/book/show/18043011-clean-architecture) - Being a clean coder is not enough if you can't build clean architecture, this is the last master piece from Robert Martin to prevent from architecture misconceptions.  
 - [Head First Design Pattern 2nd edition](https://www.goodreads.com/book/show/58128.Head_First_Design_Patterns) - Book from the Gang of four to understand the essentials patterns to design great software
-- [The design of everyday things](https://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things) - Game changing book! Amazing design concepts, put them into practice and you will create better products
-- [Java Precisely](https://www.goodreads.com/book/show/666021.Java_Precisely) - Smart Java Programming book that describes the language in detail
+- [The design of everyday things](https://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things) - Game changing book! Amazing design concepts, put them into practice and you will create better products ✅
+- [Java Precisely](https://www.goodreads.com/book/show/666021.Java_Precisely) - Smart Java Programming book that describes the language in detail ✅ 
 - [Effective Java Third Edition](https://www.goodreads.com/book/show/34927404-effective-java) - Very useful book with great advices
 - [Monolith to Microservices](https://www.oreilly.com/library/view/monolith-to-microservices/9781492047834/) - How to organize and transform monolith project to microservices.
-- [Java EE 8 Application Development](https://www.amazon.fr/Java-Application-Development-Enterprise-applications/dp/1788293673/ref=sr_1_2?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=21OEXX3I4ASHP&keywords=Java+ee+8+application+dev&qid=1654111493&sprefix=java+ee+8+application+dev%2Caps%2C72&sr=8-2) - Technical book to learn the main concepts of JEE
-- [SCRUM](https://www.goodreads.com/book/show/51444247-scrum---5e-d) - French book around Scrum methodology
+- [Java EE 8 Application Development](https://www.amazon.fr/Java-Application-Development-Enterprise-applications/dp/1788293673/ref=sr_1_2?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=21OEXX3I4ASHP&keywords=Java+ee+8+application+dev&qid=1654111493&sprefix=java+ee+8+application+dev%2Caps%2C72&sr=8-2) - Technical book to learn the main concepts of JEE 
+- [SCRUM](https://www.goodreads.com/book/show/51444247-scrum---5e-d) - French book around Scrum methodology ✅ 
 - [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.goodreads.com/book/show/179133.Domain_Driven_Design) - original book about DDD architecture
 
 
