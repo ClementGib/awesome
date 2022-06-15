@@ -86,6 +86,7 @@ My personal awesome stars
 - [Fireship](https://www.youtube.com/c/Fireship) - Awesome channel with short video format for technology intelligence
 - [Devoxx FR](https://www.youtube.com/channel/UCsVPQfo5RZErDL41LoWvk0A) - Java Devoxx conference channel
 - [edureka!](https://www.youtube.com/c/edurekaIN) - IT channel to learn about different topics
+- [Keep on coding](https://www.youtube.com/c/KeepOnCoding) - Tips and tricks useful channel for developers
 - [IT connect](https://www.youtube.com/c/It-connectFr) - IT general channel 
 - [Alpha Code](https://www.youtube.com/c/AlphaCode8) - Channel about DDD architecture
 - [Computerphile](https://www.youtube.com/user/Computerphile) - Computer stuff channel
