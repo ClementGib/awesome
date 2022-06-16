@@ -96,3 +96,4 @@ My personal awesome stars
 - [Benjamin Code](https://www.youtube.com/c/BenjaminCode) - French freelance developper 
 - [devaslife](https://www.youtube.com/channel/UC7yZ6keOGsvERMp2HaEbbXQ) - Relaxing live coding channel 
 - [Flux Academy](https://www.youtube.com/c/FluxWithRanSegall) - Cool front end oriented channel 
+- [Bro code](https://www.youtube.com/c/BroCodez) - Varied languages tutorials
