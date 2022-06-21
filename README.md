@@ -97,3 +97,4 @@ My personal awesome stars
 - [devaslife](https://www.youtube.com/channel/UC7yZ6keOGsvERMp2HaEbbXQ) - Relaxing live coding channel 
 - [Flux Academy](https://www.youtube.com/c/FluxWithRanSegall) - Cool front end oriented channel 
 - [Bro code](https://www.youtube.com/c/BroCodez) - Varied languages tutorials
+- [Treehouse](https://www.youtube.com/c/gotreehouse/videos) - Channel to learn about concepts, technologies and frameworks
