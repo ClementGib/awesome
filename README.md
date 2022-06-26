@@ -10,7 +10,7 @@ My personal awesome stars
 - [Cheat Sheet 📝](#cheat-sheet-)
 - [Application 📲](#applications-)
 - [Coding games 🎲](#coding-games-)
-- [YouTube channel 🟥](#youtube-channel-)
+- [YouTube channels 🟥](#youtube-channels-)
 <!-- TOC end -->
 
 ## Tools 🧰
@@ -86,7 +86,7 @@ My personal awesome stars
 - [Super markup world](https://supermarkupworld.com/) - Platform game to practice HTML
 - [10 idees recues UX Design](https://10ideesrecuesenuxdesign.castoretpollux.com/fr/) - 10 common preconceptions quiz about UX Design 
 
-## YouTube channel 🟥
+## YouTube channels 🟥
 - [Fireship](https://www.youtube.com/c/Fireship) - Awesome channel with short video format for technology intelligence
 - [Devoxx FR](https://www.youtube.com/channel/UCsVPQfo5RZErDL41LoWvk0A) - Java Devoxx conference channel
 - [edureka!](https://www.youtube.com/c/edurekaIN) - IT channel to learn about different topics
