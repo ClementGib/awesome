@@ -8,6 +8,7 @@ My personal awesome stars
 - [Courses 📼](#courses-)
 - [Repositories 📦 ](#repositories-)
 - [Cheat Sheet 📝](#cheat-sheet-)
+- [Application 📲](#applications-)
 - [Coding games 🎲](#coding-games-)
 - [YouTube channel 🟥](#youtube-channel-)
 <!-- TOC end -->
