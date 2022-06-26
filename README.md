@@ -3,11 +3,11 @@ My personal awesome stars
 
 <!-- TOC start -->
 - [Tools 🧰](#tools-)
-- [Framework 🚀](#framework-)
+- [Frameworks 🚀](#frameworks-)
 - [Books 📚](#books-)
 - [Courses 📼](#courses-)
 - [Repositories 📦 ](#repositories-)
-- [Cheat Sheet 📝](#cheat-sheet-)
+- [Cheat Sheets 📝](#cheat-sheets-)
 - [Application 📲](#applications-)
 - [Coding games 🎲](#coding-games-)
 - [YouTube channels 🟥](#youtube-channels-)
@@ -30,7 +30,7 @@ My personal awesome stars
 - [Postman](https://www.postman.com/) - Program to use, build, and test APIs
 - [Grub Customizer](https://doc.ubuntu-fr.org/grub-customizer) - Nice program to custom your Grub boot loader
 
-## Framework 🚀
+## Frameworks 🚀
 - [Quarkus](https://quarkus.io) - Modern Java framework, fast, strong and well documented. Use it this framework is Amazing !
 - [Angular](https://angular.io/) - Do I really need to present it?
 
@@ -66,7 +66,7 @@ My personal awesome stars
 - [Java oauth server](https://github.com/authlete/java-oauth-server) - Java Oauth 2 API server based on JAX-RS 2.0
 - [Jberet](https://github.com/jberet) - Java batch implementation of JSR-352 
 
-## Cheat Sheet 📝
+## Cheat Sheets 📝
 - [Eclipse sheetcheat](https://github.com/pellaton/eclipse-cheatsheet) - Complete cheat sheet for Eclipse IDE
 - [CSS sheetcheat](https://websitesetup.org/css3-cheat-sheet/) - Very Complete cheat sheet for this idiomatic CSS
 - [CSS Precedence sheetcheat](https://specifishity.com/) - Funny precedence cheat sheet for CSS
