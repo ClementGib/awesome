@@ -75,7 +75,7 @@ My personal awesome stars
 
 ## Applications 📲
 - [SoloLearn](https://www.sololearn.com/profile/13902886) - Useful for learning the most popular language but especially to fight ⚔️ developers with your coding skills !
-
+- [Enki](https://www.enki.com/) - Daily app to learn new language technique frequently 
 
 ## Coding games 🎲
 - [Flexbox Froggy](https://flexboxfroggy.com/) - little game to understand and practice CSS3 flexbox
