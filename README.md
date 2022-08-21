@@ -29,9 +29,10 @@ My personal awesome stars
 - [Jbang](https://www.jbang.dev/) - Amazing Java CLI*
 - [Postman](https://www.postman.com/) - Program to use, build, and test APIs
 - [Grub Customizer](https://doc.ubuntu-fr.org/grub-customizer) - Nice program to custom your Grub boot loader
+- [Trello](https://trello.com) - Light project manager, great for managing user stories.
 
 ## Frameworks 🚀
-- [Quarkus](https://quarkus.io) - Modern Java framework, fast, strong and well documented. Use it this framework is Amazing !
+- [Quarkus](https://quarkus.io) - Modern Jakarta EE framework. Fast, strong and well documented. Use it this framework is Amazing !
 - [Angular](https://angular.io/) - Do I really need to present it?
 
 
@@ -104,3 +105,5 @@ My personal awesome stars
 - [Flux Academy](https://www.youtube.com/c/FluxWithRanSegall) - Cool front end oriented channel 
 - [Bro code](https://www.youtube.com/c/BroCodez) - Varied languages tutorials
 - [Treehouse](https://www.youtube.com/c/gotreehouse/videos) - Channel to learn about concepts, technologies and frameworks
+- [John Taieb](https://www.youtube.com/c/JohnTaieb) - French channel about coding, digital nomad and coding business
+
