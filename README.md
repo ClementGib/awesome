@@ -106,4 +106,5 @@ My personal awesome stars
 - [Bro code](https://www.youtube.com/c/BroCodez) - Varied languages tutorials
 - [Treehouse](https://www.youtube.com/c/gotreehouse/videos) - Channel to learn about concepts, technologies and frameworks
 - [John Taieb](https://www.youtube.com/c/JohnTaieb) - French channel about coding, digital nomad and coding business
+- [Stefan Mischook](https://www.youtube.com/c/StefanMischook) - Senior developper with a lot a experiences and good advises 
 
