@@ -108,4 +108,7 @@ My personal awesome stars
 - [John Taieb](https://www.youtube.com/c/JohnTaieb) - French channel about coding, digital nomad and coding business
 - [Stefan Mischook](https://www.youtube.com/c/StefanMischook) - Senior developper with a lot a experiences and good advises 
 - [The coding train](https://www.youtube.com/c/TheCodingTrain) - Coding challenges by a dynamic guy with funny concepts 
+- [Colt Steele Code](https://www.youtube.com/c/ColtSteeleCode) - Web tutorials and tricks
+
+
 
