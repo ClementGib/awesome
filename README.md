@@ -49,7 +49,7 @@ My personal awesome stars
 - [SCRUM](https://www.goodreads.com/book/show/51444247-scrum---5e-d) - French book around Scrum methodology ✅ 
 - [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.goodreads.com/book/show/179133.Domain_Driven_Design) - original book about DDD architecture
 - [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.goodreads.com/book/show/179133.Domain_Driven_Design) - original book about DDD architecture
-- [The Pragmatic Programmer: From Journeyman to Master](https://www.goodreads.com/book/show/179133.Domain_Driven_Design](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer) - perfect book to know how improve in the job of programmer
+- [The Pragmatic Programmer: From Journeyman to Master](https://www.goodreads.com/book/show/179133.Domain_Driven_Design) - perfect book to know how improve in the job of programmer
 
 ## Courses 📼
 - [The JavaScript Bible - JavaScript Bootcamp](https://www.udemy.com/course/javascript-bible/) - Very complete course to understand JavaScript and ECMAScript
