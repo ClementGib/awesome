@@ -32,8 +32,9 @@ My personal awesome stars
 - [Trello](https://trello.com) - Light project manager, great for managing user stories.
 
 ## Frameworks 🚀
-- [Quarkus](https://quarkus.io) - Modern Jakarta EE framework. Fast, strong and well documented. Use it this framework is Amazing !
-- [Angular](https://angular.io/) - Do I really need to present it?
+- [Spring framework](https://quarkus.io](https://spring.io/) - Great framework dominating marketshare in Java environments. Facilitates Java configuration and his embedded libs covering almost every subjects so it's a cool framework
+- [Quarkus](https://quarkus.io) - Modern Java framework made by Redhat. This framework is fast and strong, it uses grallVM and  Jakarta EE implementations. It's new but well documented.
+- [Angular](https://angular.io/) - Real Front-end framework made fully in TypeScript, more standardized compar to others... I love it! 
 
 
 ## Books 📚
@@ -76,6 +77,7 @@ My personal awesome stars
 - [Python sheetcheat](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjE16iR1cH2AhUMyxoKHRkKDpMQFnoECA4QAQ&url=https%3A%2F%2Fperso.limsi.fr%2Fpointal%2F_media%2Fpython%3Acours%3Amementopython3-english.pdf&usg=AOvVaw1ogJFUltssPPSBgs3nrU16) - Well defined cheat sheet for Python3
 
 ## Applications 📲
+- [Medium](https://medium.com/) - Great website to read tech articles about every subjetcs
 - [SoloLearn](https://www.sololearn.com/profile/13902886) - Useful for learning the most popular language but especially to fight ⚔️ developers with your coding skills !
 - [Enki](https://www.enki.com/) - Daily app to learn new language technique frequently
 - [Brillant](https://brilliant.org/home/) - Funny app to improve your math and problems solving skills 
