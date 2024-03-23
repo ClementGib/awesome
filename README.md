@@ -48,7 +48,8 @@ My personal awesome stars
 - [Java EE 8 Application Development](https://www.amazon.fr/Java-Application-Development-Enterprise-applications/dp/1788293673/ref=sr_1_2?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=21OEXX3I4ASHP&keywords=Java+ee+8+application+dev&qid=1654111493&sprefix=java+ee+8+application+dev%2Caps%2C72&sr=8-2) - Technical book to learn the main concepts of JEE 
 - [SCRUM](https://www.goodreads.com/book/show/51444247-scrum---5e-d) - French book around Scrum methodology ✅ 
 - [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.goodreads.com/book/show/179133.Domain_Driven_Design) - original book about DDD architecture
-
+- [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.goodreads.com/book/show/179133.Domain_Driven_Design) - original book about DDD architecture
+- [The Pragmatic Programmer: From Journeyman to Master](https://www.goodreads.com/book/show/179133.Domain_Driven_Design](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer) - perfect book to know how improve in the job of programmer
 
 ## Courses 📼
 - [The JavaScript Bible - JavaScript Bootcamp](https://www.udemy.com/course/javascript-bible/) - Very complete course to understand JavaScript and ECMAScript
