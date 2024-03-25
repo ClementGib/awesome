@@ -1,3 +1,4 @@
+## CORE
 - classpath : included directories where find classes and packages
   - `target/classes`
   - `target/test-classes`
@@ -18,6 +19,7 @@ Resource resource = new ClassPathResource("myfolder/myresource.txt");
 ```
 
 - Target file access:
+  - General:
 ```java
 ClassLoader classLoader = getClass().getClassLoader();
 URL resourceUrl = classLoader.getResource("myfolder/myresource.txt");
@@ -29,11 +31,16 @@ FileSystemResourceLoader resourceLoader = new FileSystemResourceLoader();
 
 - `Equals and hashcode` come always together (comparison in collection with hash...)
 
-- Git do not default see Uppercase/lowercase changes by default ⚠️
+## MAVEN
 
 - Maven plugin for unit tests (UT) : `surefire`
 - Maven plugin for integration tests (IT) : `failsafe`
 
-
+## ERRORS
 
 - Error: `Unsupported class file majir version 61` -> `JDK version not compatible`
+
+
+## TOOLS
+
+- Git do not default see Uppercase/lowercase changes by default ⚠️
