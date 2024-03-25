@@ -7,29 +7,29 @@
   - `src/main/resources`
   - `src/test/resources`
 
-- File resources access:
+- **File resources access**:
   - General:
-```java
-ClassLoader classLoader = getClass().getClassLoader();
-URL resourceUrl = classLoader.getResource("myfolder/myresource.txt");
-```  
+  ```java
+    ClassLoader classLoader = getClass().getClassLoader();
+    URL resourceUrl = classLoader.getResource("myfolder/myresource.txt");
+    ```  
   - Spring framework:
-```
-Resource resource = new ClassPathResource("myfolder/myresource.txt");
-```
+    ```
+    Resource resource = new ClassPathResource("myfolder/myresource.txt");
+    ```
 
-- Target file access:
+- **Target file access**:
   - General:
-```java
-ClassLoader classLoader = getClass().getClassLoader();
-URL resourceUrl = classLoader.getResource("myfolder/myresource.txt");
-```  
+    ```java
+    ClassLoader classLoader = getClass().getClassLoader();
+    URL resourceUrl = classLoader.getResource("myfolder/myresource.txt");
+    ```  
   - Spring framework:
-```
-FileSystemResourceLoader resourceLoader = new FileSystemResourceLoader();
-```
+    ```
+    FileSystemResourceLoader resourceLoader = new FileSystemResourceLoader();
+    ```
 
-- `Equals and hashcode` come always together (comparison in collection with hash...)
+- `Equals and hashcode` come always together (comparison in collection with hash...) ⚠️
 
 ## MAVEN
 
