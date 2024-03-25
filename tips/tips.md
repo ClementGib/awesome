@@ -1,5 +1,5 @@
 ## CORE
-- classpath : included directories where find classes and packages
+- **classpath** : included directories where find classes and packages
   - `target/classes`
   - `target/test-classes`
   - `target/lib`
@@ -29,7 +29,7 @@
     FileSystemResourceLoader resourceLoader = new FileSystemResourceLoader();
     ```
 
-- `Equals and hashcode` come always together (comparison in collection with hash...) ⚠️
+- **Equals and hashcode** come always together (comparison in collection with hash...) ⚠️
 
 ## MAVEN
 
@@ -38,9 +38,9 @@
 
 ## ERRORS
 
-- Error: `Unsupported class file majir version 61` -> `JDK version not compatible`
+- **Error** `Unsupported class file majir version 61`: when JDK version not compatible (JDK1.8 -> JDK11
 
 
 ## TOOLS
 
-- Git do not default see Uppercase/lowercase changes by default ⚠️
+- **Git** do not default see Uppercase/lowercase changes by default ⚠️
