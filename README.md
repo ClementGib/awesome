@@ -52,7 +52,10 @@ My personal awesome stars
 - [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.goodreads.com/book/show/179133.Domain_Driven_Design) - original book about DDD architecture
 - [The Pragmatic Programmer: From Journeyman to Master](https://www.goodreads.com/book/show/179133.Domain_Driven_Design) - perfect book to know how improve in the job of programmer
 
+
 ## Courses 📼
+- [Apache Spark for Java developer](https://www.udemy.com/share/101ZBy3@AcDAEmXrqTBVf3pNgjn6YAg-xAoIkNX7rODfjxQwqLUMCIZZqO50oe9o6IyV4Cjc/) - Detailed Spark course for Java developer with exercises and examples 
+
 - [The JavaScript Bible - JavaScript Bootcamp](https://www.udemy.com/course/javascript-bible/) - Very complete course to understand JavaScript and ECMAScript
 - [Angular - The Complete Guide](https://www.udemy.com/course/the-complete-guide-to-angular-2) - Project based tutorial to understand and manage an Angular project
 - [The Git & Github Bootcamp](https://www.udemy.com/course/git-and-github-bootcamp/) - Amazing course to learn Git
