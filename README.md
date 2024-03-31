@@ -8,7 +8,7 @@ My personal awesome stars
 - [Courses 📼](#courses-)
 - [Repositories 📦 ](#repositories-)
 - [Cheat Sheets 📝](#cheat-sheets-)
-- [Application 📲](#applications-)
+- [Mobile App 📲](#mobile-app-)
 - [Coding games 🎲](#coding-games-)
 - [YouTube channels 🟥](#youtube-channels-)
 <!-- TOC end -->
@@ -79,7 +79,7 @@ My personal awesome stars
 - [CSS flexbox sheetcheat](https://yoksel.github.io/flex-cheatsheet/) - Useful flexbox cheat sheet for CSS
 - [Python sheetcheat](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjE16iR1cH2AhUMyxoKHRkKDpMQFnoECA4QAQ&url=https%3A%2F%2Fperso.limsi.fr%2Fpointal%2F_media%2Fpython%3Acours%3Amementopython3-english.pdf&usg=AOvVaw1ogJFUltssPPSBgs3nrU16) - Well defined cheat sheet for Python3
 
-## Applications 📲
+## Mobil App 📲
 - [Medium](https://medium.com/) - Great website to read tech articles about every subjetcs
 - [SoloLearn](https://www.sololearn.com/profile/13902886) - Useful for learning the most popular language but especially to fight ⚔️ developers with your coding skills !
 - [Enki](https://www.enki.com/) - Daily app to learn new language technique frequently
