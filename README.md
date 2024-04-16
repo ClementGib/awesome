@@ -84,7 +84,8 @@ My personal awesome stars
 - [Medium](https://medium.com/) - Great website to read tech articles about every subjetcs
 - [SoloLearn](https://www.sololearn.com/profile/13902886) - Useful for learning the most popular language but especially to fight ⚔️ developers with your coding skills !
 - [Enki](https://www.enki.com/) - Daily app to learn new language technique frequently
-- [Brillant](https://brilliant.org/home/) - Funny app to improve your math and problems solving skills 
+- [Brillant](https://brilliant.org/home/) - Funny app to improve your math and problems solving skills
+- [Udemy](https://www.udemy.com/) - App of Udemy website to watch or cast IT courses while taking a short break 😙
 
 ## Coding games 🎲
 - [Flexbox Froggy](https://flexboxfroggy.com/) - little game to understand and practice CSS3 flexbox
