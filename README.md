@@ -29,6 +29,8 @@ My personal awesome stars
 - [Jbang](https://www.jbang.dev/) - Amazing Java CLI*
 - [Postman](https://www.postman.com/) - Program to use, build, and test APIs
 - [Grub Customizer](https://doc.ubuntu-fr.org/grub-customizer) - Nice program to custom your Grub boot loader
+- [SDKMan](https://sdkman.io) - Clean SDK manager for Unix system and Windows
+[Fork](https://git-fork.com) - Great Open Source Git graphical interface 
 - [Trello](https://trello.com) - Light project manager, great for managing user stories.
 
 ## Frameworks 🚀
