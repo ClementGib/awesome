@@ -31,7 +31,8 @@ My personal awesome stars
 - [Postman](https://www.postman.com/) - Program to use, build, and test APIs
 - [Grub Customizer](https://doc.ubuntu-fr.org/grub-customizer) - Nice program to custom your Grub boot loader
 - [SDKMan](https://sdkman.io) - Clean SDK manager for Unix system and Windows
-- [Fork](https://git-fork.com) - Great Open Source Git graphical interface 
+- [Fork](https://git-fork.com) - Great Open Source Git graphical interface
+- [Hilla React](https://hilla.dev) - Front end lib for java project to create Spring boot and react apps
 - [Trello](https://trello.com) - Light project manager, great for managing user stories.
 
 ## Frameworks 🚀
