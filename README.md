@@ -121,6 +121,9 @@ My personal awesome stars
 - [The coding train](https://www.youtube.com/c/TheCodingTrain) - Coding challenges by a dynamic guy with funny concepts 
 - [Colt Steele Code](https://www.youtube.com/c/ColtSteeleCode) - Web tutorials and tricks
 
+## To watch 
+- [Devoxx live refactoring](https://www.youtube.com/watch?v=xXvuBX1bVh8) - How to refactore without tunnel effect
+
 ## Other 🐱
 - [http.cat](https://http.cat) - Http verbs with cats
 
