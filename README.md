@@ -21,10 +21,11 @@ My personal awesome stars
 - [React-native](https://github.com/facebook/react-native) - Really good framework to develop cross-platform apps with JavaScript libs  
 - [Terminator](https://en.wikipedia.org/wiki/Terminator_(terminal_emulator)) - Nice terminal with multi tabs for Linux
 - [WSL](https://docs.microsoft.com/en-us/windows/wsl/) - Windows Subsystem Linux : Embedded Linux system that allow you to use (almost) all the linux programs on Windows on the distribution of you choice
-- [Vim](https://fr.wikipedia.org/wiki/Vim) - Classic text editor with awesome progression level and great plugins
+- [Vim](https://fr.wikipedia.org/wiki/Vim) - Classic text editor with awesome progWaression level and great plugins
 - [VSCode](https://code.visualstudio.com/) - Very popular text editor with brilliant plugins
 - [pgAdmin 3+](https://www.pgadmin.org/) - Open source DB manager for PostegreSQL
-- [paint.NET](https://www.getpaint.net/) - Amazing Free photoshop like made with .NET 
+- [paint.NET](https://www.getpaint.net/) - Amazing Free photoshop like made with .NET
+- [Warp](https://www.warp.dev/) - Mordern terminal, multi tab and totally customizable and with embedded AI
 - [Figma](https://www.figma.com/login) - Amazing app to prototyping UI
 - [Dbeaver](https://dbeaver.io/) - Database tool to manage SQL databases
 - [Jbang](https://www.jbang.dev/) - Amazing Java CLI*
