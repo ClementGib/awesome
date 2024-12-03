@@ -70,6 +70,7 @@ My personal awesome stars
 
 
 ## Repositories 📦 
+- [Awesome Java](https://github.com/akullpp/awesome-java) - All project and tools that are awesome for Java
 - [Chocolatey](https://github.com/chocolatey/choco) - CLI-based package manager for Windows
 - [AngularCLI](https://github.com/angular/angular-cli?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more) - CLI for Angular project that helps you to avoid click to create, build, test...
 - [Angular2AndJavaEE](https://github.com/Angular2Guy/Angular2AndJavaEE) - Cool repository to make JEE Rest API project with Angular2+
